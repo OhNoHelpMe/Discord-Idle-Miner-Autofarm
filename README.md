@@ -1,1 +1,0 @@
-# Discord-Idle-Miner-Autofarm
