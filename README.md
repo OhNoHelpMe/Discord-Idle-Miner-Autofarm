@@ -11,4 +11,5 @@ I am not responsible for any bans!
 
 
 Changed upgrade commands to divide money for both pickaxe and backpack evenly
+
 Swaped prestige before rebirth
