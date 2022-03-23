@@ -21,12 +21,12 @@ def banner():
 
 def start():
     # ------------------------------------------------------
-    commands = [";s", ";up p a", ";up bp a", ";f", ";h", ";o a", ";claimall", ";rb", ";prestige"]
+    commands = [";s", ";up p h", ";up bp a", ";f", ";h", ";o a", ";claimall", ";prestige", ";rb"]
     # ------------------------------------------------------
 
     # ------------------------------------------------------
     # ;s         -> sell
-    # ;up p a    -> upgrade pickaxe all
+    # ;up p h    -> upgrade pickaxe half
     # ;up b a    -> upgrade backback all
     # ;f         -> fish
     # ;h         -> hunt
