@@ -26,8 +26,8 @@ def start():
 
     # ------------------------------------------------------
     # ;s         -> sell
-    # ;up p h    -> upgrade pickaxe half
-    # ;up b a    -> upgrade backback all
+    # ;up b h    -> upgrade pickaxe half
+    # ;up p a    -> upgrade backpack all
     # ;f         -> fish
     # ;h         -> hunt
     # ;o a       -> open all crates
